@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="35" height="35"/>
 </p>
 
 ## 🏆 GitHub Trophies
