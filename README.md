@@ -55,10 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalesh006k&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFC93C&currStreakLabel=E8E8E8" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game Contribution" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
