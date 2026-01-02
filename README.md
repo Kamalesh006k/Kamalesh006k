@@ -46,24 +46,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="35" height="35"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamalesh006k&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kamalesh006k&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kamalesh006k&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
