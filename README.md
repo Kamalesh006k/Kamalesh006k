@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🔭 Currently working as **Associate Tech Head (Frontend Dev)** at Campus Life SRM Easwari
 - 🌱 Exploring **full-stack development**, **cloud technologies**, and **modern JavaScript frameworks**
-- 💡 Love building **responsive web applications** with React, Next.js, and robust backend systems
+- 💡 Love building **responsive web applications** with React, Next.js, and Spring Boot backend systems
 - 🎯 Goal: Become a proficient full-stack engineer and contribute to impactful open-source projects
 - 📍 Based in **Chennai, India**
 
