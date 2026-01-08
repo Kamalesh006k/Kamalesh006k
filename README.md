@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently working as **Associate Tech Head (Frontend Dev)** at Campus Life SRM Easwari Engineering College
+- 🔭 Currently working as **Associate Tech Head (Frontend Dev)** at Campus Life of SRM Easwari Engineering College
 - 🌱 Exploring **full-stack development**, **cloud technologies**, and **modern JavaScript frameworks**
 - 💡 Love building **responsive web applications** with React, Next.js, and Spring Boot backend systems
 - 🎯 Goal: Become a proficient full-stack engineer and contribute to impactful open-source projects
